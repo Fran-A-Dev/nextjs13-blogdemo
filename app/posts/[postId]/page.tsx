@@ -1,4 +1,4 @@
-import getFormattedDate from "@/lib/GetFormattedDate";
+import getFormattedDate from "@/lib/getFormattedDate";
 import { getPostData, getSortedPostsData } from "@/lib/posts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
